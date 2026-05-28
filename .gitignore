@@ -1,0 +1,41 @@
+# Archivos de caché y compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Directorios de distribución y empaquetado
+build/
+dist/
+*.egg-info/
+
+# Archivos de configuración de IDEs y editores
+.vscode/
+.idea/
+*.swp
+
+# Registros de instalación
+pip-log.txt
+
+# Reportes de pruebas y cobertura
+.pytest_cache/
+.cache/
+.coverage
+htmlcov/
+
+# Cuadernos de Jupyter
+.ipynb_checkpoints
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro (logs)
+*.log
